@@ -1,0 +1,443 @@
+﻿[
+  {
+    "ProvinceId": 76,
+    "Name": "An Giang",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 76,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 64,
+    "Name": "Bà Rịa - Vũng Tàu",
+    "Region": "South Eastern Vietnam (Đông Nam Bộ Việt Nam)",
+    "TelCode": 64,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 281,
+    "Name": "Bắc Kạn",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 281,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 240,
+    "Name": "Bắc Giang",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 240,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 781,
+    "Name": "Bạc Liêu",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 781,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 241,
+    "Name": "Bắc Ninh",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 241,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 75,
+    "Name": "Bến Tre",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 75,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 650,
+    "Name": "Bình Dương",
+    "Region": "South Eastern Vietnam (Đông Nam Bộ Việt Nam)",
+    "TelCode": 650,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 56,
+    "Name": "Bình Định",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 56,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 651,
+    "Name": "Bình Phước",
+    "Region": "South Eastern Vietnam (Đông Nam Bộ Việt Nam)",
+    "TelCode": 651,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 62,
+    "Name": "Bình Thuận",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 62,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 780,
+    "Name": "Cà Mau",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 780,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 26,
+    "Name": "Cao Bằng",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 26,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 710,
+    "Name": "Cần Thơ",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 710,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 511,
+    "Name": "TP Đà Nẵng",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 511,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 500,
+    "Name": "TP Đắk Lắk",
+    "Region": "Central Highlands (Tây Nguyên)",
+    "TelCode": 500,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 501,
+    "Name": "Đắk Nông",
+    "Region": "Central Highlands (Tây Nguyên)",
+    "TelCode": 501,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 230,
+    "Name": "Điện Biên",
+    "Region": "North Western Vietnam (Tây Bắc Việt Nam)",
+    "TelCode": 230,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 61,
+    "Name": "Đồng Nai",
+    "Region": "South Eastern Vietnam (Đông Nam Bộ Việt Nam)",
+    "TelCode": 61,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 67,
+    "Name": "Đồng Tháp",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 67,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 59,
+    "Name": "Gia Lai",
+    "Region": "Central Highlands (Tây Nguyên)",
+    "TelCode": 59,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 219,
+    "Name": "Hà Giang",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 219,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 351,
+    "Name": "Hà Nam",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 351,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 4,
+    "Name": "TP Hà Nội",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 4,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 39,
+    "Name": "Hà Tĩnh",
+    "Region": "North Central Coastal Vietnam (Bắc Trung Bộ Việt Nam)",
+    "TelCode": 39,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 320,
+    "Name": "Hải Dương",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 320,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 31,
+    "Name": "TP Hải Phòng",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 31,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 711,
+    "Name": "Hậu Giang",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 711,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 218,
+    "Name": "Hòa Bình",
+    "Region": "North Western Vietnam (Tây Bắc Việt Nam)",
+    "TelCode": 218,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 8,
+    "Name": "TP Hồ Chí Minh",
+    "Region": "South Eastern Vietnam (Đông Nam Bộ Việt Nam)",
+    "TelCode": 8,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 321,
+    "Name": "Hưng Yên",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 321,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 58,
+    "Name": "Khánh Hòa",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 58,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 77,
+    "Name": "Kiên Giang",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 77,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 60,
+    "Name": "Kon tum",
+    "Region": "Central Highlands (Tây Nguyên)",
+    "TelCode": 60,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 231,
+    "Name": "Lai Châu",
+    "Region": "North Western Vietnam (Tây Bắc Việt Nam)",
+    "TelCode": 231,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 25,
+    "Name": "Lạng Sơn",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 25,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 20,
+    "Name": "Lào Cai",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 20,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 63,
+    "Name": "Lâm Đồng",
+    "Region": "Central Highlands (Tây Nguyên)",
+    "TelCode": 63,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 72,
+    "Name": "Long An",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 72,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 350,
+    "Name": "Nam Định",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 350,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 38,
+    "Name": "Nghệ An",
+    "Region": "North Central Coastal Vietnam (Bắc Trung Bộ Việt Nam)",
+    "TelCode": 38,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 30,
+    "Name": "Ninh Bình",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 30,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 68,
+    "Name": "Ninh Thuận",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 68,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 210,
+    "Name": "Phú Thọ",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 210,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 57,
+    "Name": "Phú Yên",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 57,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 52,
+    "Name": "Quảng Bình",
+    "Region": "North Central Coastal Vietnam (Bắc Trung Bộ Việt Nam)",
+    "TelCode": 52,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 510,
+    "Name": "Quảng Nam",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 510,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 55,
+    "Name": "Quảng Ngãi",
+    "Region": "South Central Coastal Vietnam (Nam Trung Bộ Việt Nam)",
+    "TelCode": 55,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 33,
+    "Name": "Quảng Ninh",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 33,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 53,
+    "Name": "Quảng Trị",
+    "Region": "North Central Coastal Vietnam (Bắc Trung Bộ Việt Nam)",
+    "TelCode": 53,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 79,
+    "Name": "Sóc Trăng",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 79,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 22,
+    "Name": "Sơn La",
+    "Region": "North Western Vietnam (Tây Bắc Việt Nam)",
+    "TelCode": 22,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 66,
+    "Name": "Tây Ninh",
+    "Region": "South Eastern Vietnam (Đông Nam Bộ Việt Nam)",
+    "TelCode": 66,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 36,
+    "Name": "Thái Bình",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 36,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 280,
+    "Name": "Thái Nguyên",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 280,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 37,
+    "Name": "Thanh Hóa",
+    "Region": "North Central Coastal Vietnam (Bắc Trung Bộ Việt Nam)",
+    "TelCode": 37,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 54,
+    "Name": "Thừa Thiên Huế",
+    "Region": "North Central Coastal Vietnam (Bắc Trung Bộ Việt Nam)",
+    "TelCode": 54,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 73,
+    "Name": "Tiền Giang",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 73,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 74,
+    "Name": "Trà Vinh",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 74,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 27,
+    "Name": "Tuyên Quang",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 27,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 70,
+    "Name": "Vĩnh Long",
+    "Region": "Mekong River Delta (Đồng Bằng Sông Cửu Long) 2",
+    "TelCode": 70,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 211,
+    "Name": "Vĩnh Phúc",
+    "Region": "Red River Delta (Đồng Bằng Sông Hồng)",
+    "TelCode": 211,
+    "MapPath": ""
+  },
+  {
+    "ProvinceId": 29,
+    "Name": "Yên Bái",
+    "Region": "North Eastern Vietnam (Đông Bắc Việt Nam)",
+    "TelCode": 29,
+    "MapPath": ""
+  }
+]

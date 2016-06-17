@@ -1,0 +1,102 @@
+﻿@*@model IEnumerable<MasterDatabaseSystem.Models.Province>*@
+@model MasterDatabaseSystem.Models.ProvinceViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Danh sách tỉnh thành Việt Nam</h2>
+
+<div class="team-info">
+    <div class="col1">
+        <form asp-controller="Province" asp-action="Index" method="get">
+            <p>
+                <select asp-for="provinceName" asp-items="Model.provinceNames">
+                    <option value="">All</option>
+                </select>
+
+                <input type="submit" value="Filter" />
+            </p>
+        </form>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.provinces[0].ProvinceId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.provinces[0].Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.provinces[0].Region)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.provinces[0].TelCode)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.provinces)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProvinceId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Region)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TelCode)
+                        </td>
+                        @*<td>
+                            <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                        </td>*@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="col2">
+
+        <h2>Danh sách quận huyện Việt Nam</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.districtes[0].DistrictId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.districtes[0].Name)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.districtes)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DistrictId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        
+                        @*<td>
+                            <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                        </td>*@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
