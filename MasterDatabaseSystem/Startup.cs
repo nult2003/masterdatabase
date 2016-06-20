@@ -31,7 +31,7 @@ namespace MasterDatabaseSystem
             Configuration = builder.Build();
 
             _env = env;
-            Models.Environment.rootPath = env.WebRootPath;
+            Models.ProjectEnvironment.rootPath = env.WebRootPath;
         }
 
         public IConfigurationRoot Configuration { get; }
@@ -42,7 +42,7 @@ namespace MasterDatabaseSystem
             //var connection = @"Server=(localdb)\mssqllocaldb;Database=MasterDatabaseSystem;Trusted_Connection=True;";
             //services.AddDbContext<ProvinceContext>(options => options.UseSqlServer(connection));
 
-            services.AddDbContext<ProvinceContext>(options =>
+            services.AddDbContext<MasterContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
 
@@ -83,6 +83,8 @@ namespace MasterDatabaseSystem
 
             ProvinceSeedData.Initialize(app.ApplicationServices);
             DistrictSeedData.Initialize(app.ApplicationServices);
+            SchoolCategorySeedData.Initialize(app.ApplicationServices);
+            SchoolSeedData.Initialize(app.ApplicationServices);
         }
     }
 }

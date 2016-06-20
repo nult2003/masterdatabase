@@ -1,0 +1,14 @@
+﻿[
+  {
+    "SchoolCategoryId": "DH",
+    "Name": "Đại học"
+  },
+  {
+    "SchoolCategoryId": "CD",
+    "Name": "Cao đẳng"
+  },
+  {
+    "SchoolCategoryId": "TCCN",
+    "Name": "Trung cấp chuyên nghiệp"
+  }
+]

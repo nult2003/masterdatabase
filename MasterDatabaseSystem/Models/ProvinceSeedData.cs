@@ -15,15 +15,15 @@ namespace MasterDatabaseSystem.Models
     {
         public static void Initialize(IServiceProvider serviceProvider)
         {
-            using (var context = new ProvinceContext(
-                serviceProvider.GetRequiredService<DbContextOptions<ProvinceContext>>()))
+            using (var context = new MasterContext(
+                serviceProvider.GetRequiredService<DbContextOptions<MasterContext>>()))
             {
                 if (context.Provinces.Any())
                 {
                     return;   // DB has been seeded
                 }
 
-                var path = Environment.rootPath + @"\Province.json";
+                var path = ProjectEnvironment.rootPath + @"\Province.json";
 
                 //string file = @"D:\Other\Practice\WebAPI\WebApiDemo\src\MasterDatabaseSystem\App_Data\Province.json";
                 var provinces = JsonConvert.DeserializeObject<List<Province>>(File.ReadAllText(path));

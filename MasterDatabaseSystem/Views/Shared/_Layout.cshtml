@@ -34,18 +34,52 @@
                     <li><a asp-controller="Home" asp-action="Index">Home</a></li>
                     <li><a asp-controller="Home" asp-action="About">About</a></li>
                     <li><a asp-controller="Home" asp-action="Contact">Contact</a></li>
-                    <li><a asp-controller="Province" asp-action="Index">Province</a></li>
                 </ul>
             </div>
         </div>
     </div>
-    <div class="container body-content">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 col-md-2 sidebar">
+                <ul class="nav nav-sidebar">
+                    <li><a asp-controller="Province" asp-action="Index">Province</a></li>
+                    <li><a asp-controller="School" asp-action="Index">School</a></li>
+                    <li><a href="#">Item1</a></li>
+                    <li><a href="#">Item1</a></li>
+                </ul>
+                <ul class="nav nav-sidebar">
+                    <li><a href="">Item1</a></li>
+                    <li><a href="">Item1</a></li>
+                    <li><a href="">Item1</a></li>
+                    <li><a href="">Item1</a></li>
+                    <li><a href="">Item1</a></li>
+                </ul>
+                <ul class="nav nav-sidebar">
+                    <li><a href="">Item1</a></li>
+                    <li><a href="">Item1</a></li>
+                    <li><a href="">Item1</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-9 col-md-10 main">
+                
+                @RenderBody()
+                <hr />
+                <footer>
+                    <p>&copy; 2016 - Master Database</p>
+                </footer>
+
+            </div>
+        </div>
+    </div>
+    
+    @*<div class="container body-content">
         @RenderBody()
         <hr />
         <footer>
             <p>&copy; 2016 - MasterDatabaseSystem</p>
         </footer>
-    </div>
+    </div>*@
 
     <environment names="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>

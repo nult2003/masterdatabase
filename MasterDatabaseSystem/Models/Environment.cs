@@ -5,20 +5,20 @@ using System.Threading.Tasks;
 
 namespace MasterDatabaseSystem.Models
 {
-    public class Environment
+    public class ProjectEnvironment
     {
-        private static Environment instance;
+        private static ProjectEnvironment instance;
         private static String _rootPath;
 
-        private Environment() { }
+        private ProjectEnvironment() { }
 
-        public static Environment Instance
+        public static ProjectEnvironment Instance
         {
             get
             {
                 if (instance == null)
                 {
-                    instance = new Environment();
+                    instance = new ProjectEnvironment();
                 }
                 return instance;
             }

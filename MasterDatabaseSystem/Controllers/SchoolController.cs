@@ -12,50 +12,50 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace MasterDatabaseSystem.Controllers
 {
-    public class ProvinceController : Controller
+    public class SchoolController : Controller
     {
         private readonly MasterContext _context;
-        public ProvinceController(MasterContext context)
+        public SchoolController(MasterContext context)
         {
             _context = context;
         }
         // GET: /<controller>/
-        public IActionResult Index(string provinceName)
+        public IActionResult Index(string categoryName)
         {
             ////Provinces
-            IQueryable<string> provincenameQuery = from m in _context.Provinces
+            IQueryable<string> categorynameQuery = from m in _context.SchoolCategory
                                            orderby m.Name
                                            select m.Name;
             
-            var provinces = from m in _context.Provinces
+            var categories = from m in _context.SchoolCategory
                            select m;
 
             /////District
-            var districtes = from m in _context.Districts
+            var schooles = from m in _context.Schooles
                              select m;
             
-            if (!string.IsNullOrEmpty(provinceName))
+            if (!string.IsNullOrEmpty(categoryName))
             {
-                provinces = provinces.Where(s => s.Name.Contains(provinceName));
+                categories = categories.Where(s => s.Name.Contains(categoryName));
 
-                districtes = from m in _context.Districts
-                                 where m.ProvinceId == provinces.FirstOrDefault().ProvinceId
+                schooles = from m in _context.Schooles
+                                 where m.CategoryId == categories.FirstOrDefault().SchoolCategoryId
                                  select m;
             }
             
-            var provinceVM = new ProvinceViewModel();
-            if (provincenameQuery != null && provinces!=null)
+            var schoolVM = new SchoolViewModel();
+            if (categorynameQuery != null && categories!=null)
             {
-                provinceVM.provinceNames = new SelectList(provincenameQuery.ToList());
-                provinceVM.provinces = provinces.ToList();
+                schoolVM.categoryNames = new SelectList(categorynameQuery.ToList());
+                schoolVM.categories = categories.ToList();
             }
             
-            if(districtes!=null)
+            if(schooles!=null)
             {
-                provinceVM.districtes = districtes.ToList();
+                schoolVM.schooles = schooles.ToList();
             }
 
-            return View(provinceVM);
+            return View(schoolVM);
         }
     }
 }

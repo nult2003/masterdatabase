@@ -1,0 +1,5006 @@
+﻿[
+  {
+    "SchoolId": "DH01",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Khoa học XH&NV (ĐHQG HN) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH02",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kỹ thuật Công nghiệp (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH03",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH04",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Kỹ thuật TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH05",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Bách khoa (ĐHQG TP. HCM) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH06",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Vinh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH07",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Đà Lạt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH08",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế Quốc dân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH09",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Bách Khoa (ĐH Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH10",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hàng hải Việt Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH11",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH12",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nông nghiệp Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH13",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH14",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nông Lâm TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH15",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm (ĐH Huế) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH16",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Ngoại thương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH17",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nha Trang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH18",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thương mại ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH19",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH20",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Văn Lang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH21",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Bách khoa Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH22",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Giao thông Vận tải, Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH23",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kiến trúc Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH24",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Luật Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH25",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Mỏ Địa chất ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH26",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thuỷ lợi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH27",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nông Lâm (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH28",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH29",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thể dục Thể thao Bắc Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH30",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH31",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Khoa học (ĐH Huế) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH32",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nông Lâm (ĐH Huế) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH33",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Ngoại ngữ (ĐH Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH34",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Duy Tân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH35",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Giao thông Vận tải TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH36",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kiến trúc TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH37",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH38",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Luật TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH39",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế (ĐH Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH40",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Hồng Bàng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH41",
+    "CategoryId": "DH",
+    "Name": "Học viện Tài chính ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH42",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Thể dục Thể thao Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH43",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Lao động Xã hội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH44",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hùng Vương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH45",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Lâm nghiệp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH46",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Hà Nội 2 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH47",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Quy Nhơn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH48",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Yersin Đà Lạt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH49",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tây Nguyên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH50",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Văn hóa TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH51",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Ngoại ngữ - Tin học TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH52",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tôn Đức Thắng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH53",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH54",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Ngoại ngữ (ĐH Huế) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH55",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế (ĐH Huế) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH56",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Mở TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH57",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Bà Rịa Vũng tàu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH58",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y-Dược (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH59",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế Tài chính TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH60",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH An Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH61",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y tế Công cộng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH62",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh doanh và Công nghệ HN  ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH63",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Thăng Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH64",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Phương Đông ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH65",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hồng Đức ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH66",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Kỹ thuật Hưng Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH67",
+    "CategoryId": "DH",
+    "Name": "Học viện Ngân hàng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH68",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công đoàn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH69",
+    "CategoryId": "DH",
+    "Name": "Học viện Kỹ thuật quân sự ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH70",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH TDTT Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH71",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y Dược (ĐH Huế) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH72",
+    "CategoryId": "DH",
+    "Name": "Viện ĐH Mở Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH73",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hà Tĩnh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH74",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Ngân hàng TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH75",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghiệp TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH76",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghiệp Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH77",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sân khấu Điện ảnh Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH78",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Kỹ thuật Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH79",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH80",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH81",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Trà Vinh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH82",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y Dược TP. HCM  ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH83",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Mỹ thuật TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH84",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Phú Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH85",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tây Bắc  ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH86",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Đồng Tháp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH87",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Kỹ thuật Vinh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH88",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Quốc tế Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH89",
+    "CategoryId": "DH",
+    "Name": "Học viện Công nghệ Bưu chính Viễn thông ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH90",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Lạc Hồng, Đồng Nai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH91",
+    "CategoryId": "DH",
+    "Name": "Học viện Quản lý giáo dục ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH92",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Mỹ thuật Công nghiệp, Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH93",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH94",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm (ĐH Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH95",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Điều dưỡng Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH96",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Điện lực ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH97",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Xây dựng Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH98",
+    "CategoryId": "DH",
+    "Name": "Nhạc viện TP. Hồ Chí Minh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH99",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Bạc Liêu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH100",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế QTKD (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH101",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế Kỹ thuật Công nghiệp, Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH102",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dân lập Lương Thế Vinh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH103",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH104",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Thể dục Thể thao TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH105",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thể dục Thể thao TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH106",
+    "CategoryId": "DH",
+    "Name": "Học viện Ngoại giao ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH107",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Dược Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH108",
+    "CategoryId": "DH",
+    "Name": "Học viện Lục quân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH109",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tiền Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH110",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế Công nghiệp Long An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH111",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Đông Á Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH112",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế (ĐHQG HN) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH113",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Quảng Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH114",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH KHXH&NV (ĐHQG TP. HCM) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH115",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Giáo dục (ĐHQG HN) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH116",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH KHTN (ĐHQG HN) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH117",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sao Đỏ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH118",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Quốc tế (ĐHQG TP. HCM) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH119",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ (ĐHQG HN) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH120",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Ngoại ngữ (ĐHQG HN) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH121",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hoa Sen ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH122",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế - Luật (ĐHQG TP. HCM) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH123",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Sư phạm Nghệ thuật Trung ương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH124",
+    "CategoryId": "DH",
+    "Name": "Học viện Âm nhạc Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH125",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH KHTN (ĐHQG TP. HCM) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH126",
+    "CategoryId": "DH",
+    "Name": "Học viện An ninh Nhân dân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH127",
+    "CategoryId": "DH",
+    "Name": "Học viện Cảnh sát Nhân dân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH128",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH An ninh Nhân dân, TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH129",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Cảnh sát Nhân dân, TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH130",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Phòng cháy chữa cháy ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH131",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Phạm Văn Đồng, Quảng Ngãi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH132",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Trần Quốc Tuấn  ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH133",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan Lục quân 2 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH134",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan Công binh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH135",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH136",
+    "CategoryId": "DH",
+    "Name": "Học viện Quân y ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH137",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Trần Đại Nghĩa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH138",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hoa Lư ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH139",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kiến trúc Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH140",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH CNTT (ĐHQG TP. HCM) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH141",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH FPT ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH142",
+    "CategoryId": "DH",
+    "Name": "Học viện Chính trị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH143",
+    "CategoryId": "DH",
+    "Name": "Học viện Hậu cần ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH144",
+    "CategoryId": "DH",
+    "Name": "Học viện Phòng không – Không quân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH145",
+    "CategoryId": "DH",
+    "Name": "Học viện Khoa học quân sự ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH146",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan Đặc công ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH147",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan phòng hóa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH148",
+    "CategoryId": "DH",
+    "Name": "Học viện Hải quân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH149",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan Tăng thiết giáp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH150",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan pháo binh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH151",
+    "CategoryId": "DH",
+    "Name": "Học viện Biên phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH152",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tài chính – Marketing ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH153",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kỹ thuật Y tế Hải Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH154",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y khoa Vinh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH155",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Chu Văn An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH156",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH157",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Đồng Nai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH158",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Văn hóa Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH159",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Văn Hiến ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH160",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH CNTT và Truyền thông (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH161",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ Giao thông vận tải ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH162",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Khoa học (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH163",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hải Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH164",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH165",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Văn hóa Thể thao và Du lịch Thanh Hóa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH166",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Phú Xuân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH167",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Quang Trung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH168",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghiệp Quảng Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH169",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tây Đô ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH170",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kinh tế - Kỹ thuật Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH171",
+    "CategoryId": "DH",
+    "Name": "Đại học Đà Nẵng (Phân hiệu tại Kon Tum) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH172",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Quảng Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH173",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Chính trị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH174",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Phan Thiết ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH175",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kỹ thuật Hậu cần CAND ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH176",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghiệp Việt Trì ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH177",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hòa Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH178",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thành Đô ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH179",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH180",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nông Lâm Bắc Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH181",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ Đông Á ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH182",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ Thông tin Gia Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH183",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kỹ thuật Y Dược Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH184",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Hà Hoa Tiên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH185",
+    "CategoryId": "DH",
+    "Name": "Trường Dự bị đại học TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH186",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tài nguyên Môi trường TP.HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH187",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nội vụ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH188",
+    "CategoryId": "DH",
+    "Name": "Học viện Y Dược học cổ truyền Việt Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH189",
+    "CategoryId": "DH",
+    "Name": "Trường Sĩ quan không quân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH190",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Xây dựng miền Tây ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH191",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Nam Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH192",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Cửu Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH193",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tài nguyên và Môi trường Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH194",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Mỹ thuật Việt Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH195",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghệ Đồng Nai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH196",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thủ Dầu Một ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH197",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Tư thục Công nghệ và Quản lý Hữu Nghị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH198",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Thái Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH199",
+    "CategoryId": "DH",
+    "Name": "Học viện Hàng không Việt Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH200",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Kỹ thuật – Công nghệ Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH201",
+    "CategoryId": "DH",
+    "Name": "Trường  ĐH Y dược Cần Thơ    ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH202",
+    "CategoryId": "DH",
+    "Name": "Học viện Phụ nữ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH203",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Y khoa Phạm Ngọc Thạch ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "DH204",
+    "CategoryId": "DH",
+    "Name": "Trường ĐH Công nghiệp Thực phẩm TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD01",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ Viettronics ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD02",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Bình Phước ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD03",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Kon – Tum ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD04",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Nghệ An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD05",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Nha Trang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD06",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Quảng Trị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD07",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Thái Nguyên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD08",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Đắk Lắk ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD09",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Trà Vinh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD10",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Hà Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD11",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Vĩnh Phúc (CĐ Vĩnh Phúc) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD12",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Hưng Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD13",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Lào Cai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD14",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Trung ương – Nha Trang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD15",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Lạng Sơn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD16",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cơ khí luyện kim ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD17",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD18",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ và Quản trị Sonadezi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD19",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Bắc Kạn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD20",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Cẩm Phả ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD21",
+    "CategoryId": "CD",
+    "Name": "Trường CĐCĐ Hậu Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD22",
+    "CategoryId": "CD",
+    "Name": "Trường CĐCĐ Bình Thuận ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD23",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Hải Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD24",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp thực phẩm (Phú Thọ) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD25",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Đồng Nai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD26",
+    "CategoryId": "CD",
+    "Name": "Trường CĐCĐ Kiên Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD27",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Bình Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD28",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế Công nghiệp Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD29",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp in ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD30",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Điện lực TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD31",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Điện tử - Điện lạnh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD32",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Phúc Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD33",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Giao thông vận tải II ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD34",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Công nghệ TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD35",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Kiên Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD36",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Quảng Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD37",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật thương mại, Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD38",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Vinatex ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD39",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Tài chính Thái Nguyên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD40",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kỹ thuật Cao Thắng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD41",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Thương mại, Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD42",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Thủy lợi Bắc Bộ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD43",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Xây dựng số 1 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD44",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Bắc Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD45",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Điện Biên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD46",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Quảng Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD47",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Sơn La (CĐ Sơn La) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD48",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Tây Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD49",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Trung ương TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD50",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công thương TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD51",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Tuyên Quang (CĐ Tuyên Quang) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD52",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Vĩnh Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD53",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ CN Việt – Hung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD54",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Hoà Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD55",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Đồng Tháp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD56",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Kiên Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD57",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Bình Thuận ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD58",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hoá nghệ thuật TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD59",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ CN Dệt May Thời trang Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD60",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Lương thực – Thực phẩm Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD61",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Vĩnh Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD62",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Tài chính – Kế toán ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD63",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Lâm Đồng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD64",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kỹ thuật Lý Tự Trọng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD65",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Hà Tĩnh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD66",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Thuỷ sản ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD67",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cơ điện – Nông nghiệp Nam Bộ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD68",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ (ĐH Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD69",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ nghề cơ giới và thủy lợi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD70",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD71",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD72",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Tuy Hòa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD73",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Việt – Đức ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD74",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Giao thông vận tải III ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD75",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD76",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Phú Lâm ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD77",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Tài chính Vĩnh Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD78",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế- Kế hoạch Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD79",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Nghệ An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD80",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Tài chính – Quản trị kinh doanh (Hưng Yên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD81",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Tài chính – Hải quan ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD82",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Thủy sản Bắc Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD83",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hóa nghệ thuật Nghệ An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD84",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Thanh Hóa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD85",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Bà Rịa – Vũng Tàu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD86",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Cà Mau ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD87",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Cao Bằng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD88",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Đà Lạt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD89",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD90",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Kỹ thuật Vĩnh Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD91",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Sóc Trăng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD92",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Thừa Thiên – Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD93",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Yên Bái ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD94",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ Thủ Đức ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD95",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD96",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Trung ương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD97",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ Bắc Hà ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD98",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Bách khoa Hưng Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD99",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Nha khoa Hưng Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD100",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật (ĐH Thái Nguyên) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD101",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Nguyễn Tất Thành ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD102",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Xây dựng số 2 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD103",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Xây dựng số 3 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD104",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD105",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Bà rịa – Vũng Tàu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD106",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD107",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hóa Nghệ thuật và Du lịch Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD108",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Hàng hải 1 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD109",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Kon Tum ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD110",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Viễn Đông ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD111",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Thái Nguyên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD112",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Dược Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD113",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Bách Việt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD114",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD115",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Hà Tây ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD116",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Quảng Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD117",
+    "CategoryId": "CD",
+    "Name": "   Trường CĐ Bến Tre ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD118",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Vĩnh Phúc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD119",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hóa Nghệ thuật Việt Bắc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD120",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Du lịch Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD121",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kỹ thuật Công nghiệp Quảng Ngãi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD122",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ CNTT Hữu nghị Việt – Hàn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD123",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Cà Mau ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD124",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Gia Lai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD125",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD126",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Cao su ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD127",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Điện Biên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD128",
+    "CategoryId": "CD",
+    "Name": "  Trường CĐ Nông nghiệp Nam Bộ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD129",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Dược Trung ương, Hải Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD130",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Hưng Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD131",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Giao thông vận tải TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD132",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế đối ngoại ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD133",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Bình Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD134",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Phương Đông (Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD135",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công Kỹ nghệ Đông Á ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD136",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp Thái Nguyên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD137",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Khánh Hòa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD138",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Nông Lâm Đông Bắc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD139",
+    "CategoryId": "CD",
+    "Name": "  Trường CĐ Tài nguyên và Môi trường miền Trung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD140",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD141",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Dược Phú Thọ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD142",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Hà Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD143",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Phú Thọ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD144",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Sóc Trăng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD145",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Xây dựng Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD146",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Bán công Công nghệ và Quản trị doanh nghiệp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD147",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kỹ thuật Công nghiệp (Bắc Giang) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD148",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD149",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Tư thục Đức Trí (Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD150",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Bách Khoa Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD151",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Đồng Tháp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD152",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Đại Việt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD153",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hóa Nghệ thuật và Du lịch Hạ Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD154",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD155",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ và Thương mại Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD156",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Nghệ thuật Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD157",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Phương Đông, Quảng Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD158",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Hà Đông ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD159",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Giao thông vận tải Miền trung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD160",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Bạc Liêu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD161",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Lạc Việt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD162",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ và Kinh tế Bảo Lộc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD163",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Phú Thọ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD164",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Thương mại và Du lịch – Bộ Công thương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD165",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ và Kinh tế Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD166",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Du lịch và Thương mại – Bộ Công thương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD167",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Thương mại và Du lịch Hà Nội  ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD168",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Hà Tây ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD169",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ Thông tin (ĐH Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD170",
+    "CategoryId": "CD",
+    "Name": "Trường CĐSP Ninh Thuận ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD171",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ thông tin TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD172",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD173",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD174",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Điện lực Miền Trung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD175",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Kiên Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD176",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Quảng Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD177",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp quốc phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD178",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp hóa chất ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD179",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Trung ương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD180",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghiệp và Xây dựng – Bộ Công thương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD181",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Tiền Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD182",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Điện Biên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD183",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật Miền Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD184",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ và Kinh tế Công nghiệp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD185",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Xây dựng công trình đô thị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD186",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Lâm Đồng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD187",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Đại Việt Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD188",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Sơn La ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD189",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ và Kinh doanh Việt Tiến ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD190",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kỹ thuật công nghệ Vạn Xuân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD191",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Hoan Châu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD192",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hóa Nghệ thuật Tây Bắc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD193",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Hà Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD194",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Văn hóa Nghệ thuật Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD195",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD196",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Lạng Sơn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD197",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Công nghệ - Kinh tế và Thủy lợi Miền trung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD198",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Hưng Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD199",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Bạch Mai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD200",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Thanh Hóa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD201",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD202",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD203",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Kinh tế - Kỹ thuật TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD204",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ ASEAN ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD205",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Lào Cai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD206",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Cộng đồng Bắc Kạn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD207",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Y tế Ninh Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD208",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Phát thanh Truyền hình II ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "CD209",
+    "CategoryId": "CD",
+    "Name": "Trường CĐ Sư phạm Long An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN01",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật Tin học Hà Nội ESTIH ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN02",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Nông nghiệp Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN03",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Sư phạm Mẫu giáo nhà trẻ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN04",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Nông nghiệp Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN05",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Cơ điện Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN06",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN07",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Phát thanh Truyền hình Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN08",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Hồng Lam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN09",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Tư thục Kinh tế - Kỹ thuật Đức Minh, Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN10",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật Nghiệp vụ Thăng Long, Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN11",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật miền Trung, Đà Nẵng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN12",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Y tế Sóc Trăng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN13",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Công nghệ và Kinh tế Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN14",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Xây dựng số 4 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN15",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế - Kỹ thuật Lào Cai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN16",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Y tế Hoà Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN17",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hoá Nghệ thuật Lạng Sơn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN18",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật Nông nghiệp TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN19",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Tư thục Tài chính tin học Ánh Sáng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN20",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Công nghiệp TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN21",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế - Kỹ thuật Bình Phước ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN22",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Long An ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN23",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Thủy Lợi 2 (Quảng Nam) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN24",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế - Kỹ thuật Bạc Liêu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN25",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Phương Đông ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN26",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Bán công Bắc Thăng Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN27",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Thuỷ sản Thanh Hoá ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN28",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Gia Lai  ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN29",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Y tế Lào Cai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN30",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật và công nghệ (Nghệ An) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN31",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Thương mại Trung ương 5 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN32",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Nông lâm (Thanh Hóa) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN33",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Tin học kinh tế Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN34",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Công nghệ Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN35",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Đồng Tháp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN36",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Bắc Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN37",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế - Kỹ thuật Bình Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN38",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Hải Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN39",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Văn hóa nghệ thuật Bến Tre ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN40",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Công nghệ Vĩnh Phúc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN41",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Tây Ninh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN42",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Nghiệp vụ và công nghệ, Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN43",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật xe – máy ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN44",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Y tế Quảng Ngãi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN45",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế Khánh Hòa ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN46",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Phương Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN47",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hóa – Nghệ thuật (Đà Nẵng) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN48",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật và nghiệp vụ Nam Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN49",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế, Kỹ thuật và Công nghệ Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN50",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Giao thông vận tải miền Bắc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN51",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Xây dựng miền Trung ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN52",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Văn hóa nghệ thuật Bình Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN53",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Cảnh sát nhân dân 1 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN54",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Tây Đô ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN55",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Hà Nội 1 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN56",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Bưu chính viễn thông và CNTT 1 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN57",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Mai Lĩnh Quảng Trị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN58",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hóa nghệ thuật và du lịch Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN59",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật và công nghệ Cửu Long ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN60",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Bưu chính viễn thông và CNTT miền núi ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN61",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Quảng trị ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN62",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Nghiệp vụ quản lý lương thực thực phẩm ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN63",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế - Kỹ thuật Hòa Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN64",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hóa – nghệ thuật Gia Lai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN65",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Quản lý và công nghệ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN66",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Thống kê 2 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN67",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Yên Bái ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN68",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật – nghiệp vụ Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN69",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Giao thông vận tải Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN70",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Nông nghiệp và PT nông thôn Hà Tĩnh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN71",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hoá TT và DL Bắc Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN72",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hoá nghệ thuật Nam Định ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN73",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Nông lâm nghiệp Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN74",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kỹ thuật công nông nghiệp Quảng Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN75",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế Quảng Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN76",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Kinh tế - Kỹ thuật Á Châu ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN77",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Sư phạm mầm non ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN78",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Phú Yên ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN79",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Văn hóa nghệ thuật (Hà Tĩnh) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN80",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC An ninh nhân dân 2 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN81",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Tây Bắc (TC Bách Khoa Sài Gòn) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN82",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Xây dựng TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN83",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế CN Quảng Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN84",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Lâm nghiệp ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN85",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Sư phạm Mầm non Thái Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN86",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Xây dựng Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN87",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Phương Nam ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN88",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Quảng Bình ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN89",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Cà Mau ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN90",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Y tế Đặng Văn Ngữ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN91",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế Đồng Nai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN92",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Đại Việt TP. HCM ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN93",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Tiền Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN94",
+    "CategoryId": "TCCN",
+    "Name": "Trường TH Y tế An Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN95",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Công nghiệp Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN96",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Việt – Nhật (Long An) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN97",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế Du lịch – Duy Tân ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN98",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế Tài chính Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN99",
+    "CategoryId": "TCCN",
+    "Name": "Trường TC Kinh tế - Kỹ thuật Sài Gòn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN100",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Hồng Hà ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN101",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Kỹ thuật Nguyễn Hữu Cảnh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN102",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Quân y 1 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN103",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Bình Phước ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN104",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Đông Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN105",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Đắk Lắk ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN106",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Đại Việt TP. Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN107",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Âu Việt ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN108",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Quân y 2 ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN109",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Kon Tum ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN110",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Đắk Lắk ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN111",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Sư phạm mầm non Đắk Lắk ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN112",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kỹ thuật – Nghiệp vụ Cái Bè ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN113",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Âu Lạc – Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN114",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Kỹ thuật Hà Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN115",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN116",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Bách nghệ Cần Thơ ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN117",
+    "CategoryId": "TCCN",
+    "Name": " Trường TH Thủy sản ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN118",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Bến Thành ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN119",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Công nghệ Cai Lậy (Tiền Giang) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN120",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Kỹ thuật Đồng Nai ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN121",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Kỹ thuật Đắk Lắk ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN122",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Phạm Ngọc Thạch (Cần Thơ) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN123",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kỹ thuật Quân khí ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN124",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Bến Tre ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN125",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Vĩnh Phúc ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN126",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Bách Khoa Gò Công ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN127",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Kỹ thuật Tây Nam Á ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN128",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Cao Bằng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN129",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Văn hóa Nghệ thuật Thừa Thiên Huế ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN130",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Ninh Thuận ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN131",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Tổng hợp TP. Hồ Chí Minh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN132",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y – Dược Lê Hữu Trác ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN133",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kinh tế - Kỹ thuật An Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN134",
+    "CategoryId": "TCCN",
+    "Name": " Viện Sốt rét – Ký sinh trùng – Côn trùng Quy Nhơn ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN135",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Hà Giang ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN136",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kỹ thuật Y Dược Hà Nội ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN137",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Mỹ thuật – Văn hóa Bình Dương ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN138",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kỹ thuật Công binh ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN139",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC 24 Biên phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN140",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Kỹ thuật Thông tin ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN141",
+    "CategoryId": "TCCN",
+    "Name": " Trường TH Văn hóa – Nghệ thuật Hải Phòng ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN142",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y tế Trung ương (Bắc Ninh) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  },
+  {
+    "SchoolId": "TCCN143",
+    "CategoryId": "TCCN",
+    "Name": " Trường TC Y Dược Phạm Ngọc Thạch (Hà Nội) ",
+    "Province": null,
+    "Address": null,
+    "Tel": null,
+    "Website": null
+  }
+]

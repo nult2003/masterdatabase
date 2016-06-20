@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYaY+Fm733kWPZwn/MGYCHgAAAAACAAAAAAADZgAAwAAAABAAAACwFeYRFamLvsKhXbPZ1uSIAAAAAASAAACgAAAAEAAAAFYiEt/uSGsX90c0/VapD2WAAAAAyNtHjp+X3AxVpBtnKDIgUuINnmnWTnF/Io8Y280jNM++B1jyCmX+04iqDlB5kH1CtF2O3lZKc71gsUOo3UV/5dn+OETTMd0l6lqyRawT1msfgN+NkZtezyf3Y7kogorNGU0S234jDl573c27AvLyyUFK2hFB20wT62qNBvyNszcUAAAAyYMPOKjxXb2pP4O2Qt1xNrDLxY0=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:nult2015database.database.windows.net,1433;Data Source=nult2015database.database.windows.net;Initial Catalog=MasterDatabase;Persist Security Info=False;User ID=nult2015;Password=Japanes1984;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EfMigrations Include="MasterDatabaseSystem.Models.MasterContext">
+      <Value>Server=tcp:nult2015database.database.windows.net,1433;Data Source=nult2015database.database.windows.net;Initial Catalog=MasterDatabase;Persist Security Info=False;User ID=nult2015;Password=Japanes1984;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </EfMigrations>
+  </ItemGroup>
+</Project>
