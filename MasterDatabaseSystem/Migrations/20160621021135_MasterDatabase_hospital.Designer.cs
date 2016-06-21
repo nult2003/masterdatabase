@@ -7,10 +7,11 @@ using MasterDatabaseSystem.Models;
 
 namespace MasterDatabaseSystem.Migrations
 {
-    [DbContext(typeof(ProvinceContext))]
-    partial class ProvinceContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(MasterContext))]
+    [Migration("20160621021135_MasterDatabase_hospital")]
+    partial class MasterDatabase_hospital
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.0-rc2-20901")
@@ -35,6 +36,25 @@ namespace MasterDatabaseSystem.Migrations
                     b.ToTable("Districts");
                 });
 
+            modelBuilder.Entity("MasterDatabaseSystem.Models.Hospital", b =>
+                {
+                    b.Property<string>("HospitalId");
+
+                    b.Property<string>("Address");
+
+                    b.Property<string>("Name");
+
+                    b.Property<string>("ProvinceId");
+
+                    b.Property<string>("Tel");
+
+                    b.Property<string>("Website");
+
+                    b.HasKey("HospitalId");
+
+                    b.ToTable("Hospitals");
+                });
+
             modelBuilder.Entity("MasterDatabaseSystem.Models.Province", b =>
                 {
                     b.Property<string>("ProvinceId");
@@ -50,6 +70,38 @@ namespace MasterDatabaseSystem.Migrations
                     b.HasKey("ProvinceId");
 
                     b.ToTable("Provinces");
+                });
+
+            modelBuilder.Entity("MasterDatabaseSystem.Models.School", b =>
+                {
+                    b.Property<string>("SchoolId");
+
+                    b.Property<string>("Address");
+
+                    b.Property<string>("CategoryId");
+
+                    b.Property<string>("Name");
+
+                    b.Property<string>("ProvinceId");
+
+                    b.Property<string>("Tel");
+
+                    b.Property<string>("Website");
+
+                    b.HasKey("SchoolId");
+
+                    b.ToTable("Schooles");
+                });
+
+            modelBuilder.Entity("MasterDatabaseSystem.Models.SchoolCategory", b =>
+                {
+                    b.Property<string>("SchoolCategoryId");
+
+                    b.Property<string>("Name");
+
+                    b.HasKey("SchoolCategoryId");
+
+                    b.ToTable("SchoolCategory");
                 });
 
             modelBuilder.Entity("MasterDatabaseSystem.Models.District", b =>

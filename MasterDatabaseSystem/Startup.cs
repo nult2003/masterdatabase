@@ -85,6 +85,7 @@ namespace MasterDatabaseSystem
             DistrictSeedData.Initialize(app.ApplicationServices);
             SchoolCategorySeedData.Initialize(app.ApplicationServices);
             SchoolSeedData.Initialize(app.ApplicationServices);
+            HospitalSeedData.Initialize(app.ApplicationServices);
         }
     }
 }

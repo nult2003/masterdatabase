@@ -35,6 +35,25 @@ namespace MasterDatabaseSystem.Migrations
                     b.ToTable("Districts");
                 });
 
+            modelBuilder.Entity("MasterDatabaseSystem.Models.Hospital", b =>
+                {
+                    b.Property<string>("HospitalId");
+
+                    b.Property<string>("Address");
+
+                    b.Property<string>("Name");
+
+                    b.Property<string>("ProvinceId");
+
+                    b.Property<string>("Tel");
+
+                    b.Property<string>("Website");
+
+                    b.HasKey("HospitalId");
+
+                    b.ToTable("Hospitals");
+                });
+
             modelBuilder.Entity("MasterDatabaseSystem.Models.Province", b =>
                 {
                     b.Property<string>("ProvinceId");

@@ -17,5 +17,7 @@ namespace MasterDatabaseSystem.Models
 
         public DbSet<School> Schooles { get; set; }
         public DbSet<SchoolCategory> SchoolCategory { get; set; }
+
+        public DbSet<Hospital> Hospitals { get; set; }
     }
 }

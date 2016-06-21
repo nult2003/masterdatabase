@@ -1,0 +1,1634 @@
+﻿[
+  {
+    "HospitalId": 401,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Trung ương Quân đội 108 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 402,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Nhi Trung ương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 403,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Việt- Pháp ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 404,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện An Sinh, Hà Nội ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 405,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Bạch Mai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 406,
+    "ProvinceId": 4,
+    "Name": "Bệnh Viện Đa khoa Saint-Paul ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 407,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Bưu Điện ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 408,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Công An Hà Nội ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 409,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Đa khoa Hà Đông ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 410,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Việt Đức ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 411,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Đại học Y Hà Nội ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 412,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện E ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 413,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Giao Thông Vận Tải Trung Ương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 414,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Hữu Nghị ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 415,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện K ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 416,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Tai-Mũi-Họng Trung Ương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 417,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện 198 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 418,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Mắt Hà Nội ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 419,
+    "ProvinceId": 4,
+    "Name": "Bệnh Viện Tim Hà Nội ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 420,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Nhiệt Đới Trung Ương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 421,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Nội Tiết Trung Ương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 422,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Nông nghiệp ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 423,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Hữu nghị Việt Nam-Cuba ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 424,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Quân Y 103 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 425,
+    "ProvinceId": 4,
+    "Name": "Viện Bỏng Quốc gia Lê Hữu Trác ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 426,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Thanh Nhàn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 427,
+    "ProvinceId": 4,
+    "Name": "Bệnh viện Đa khoa Quốc tế Vinmec Hà nội ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 801,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện 175 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 802,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện 30 tháng 04 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 803,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện chấn thương chỉnh hình Sài Gòn ITO ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 804,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện An Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 805,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện An Sinh, Sài Gòn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 806,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Bình Dân, TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 807,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Chấn thương Chỉnh hình TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 808,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Chợ Rẫy ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 809,
+    "ProvinceId": 8,
+    "Name": "bệnh viện STO Phương Đông ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 810,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Chuyên khoa ngoại thần kinh Quốc Tế ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 811,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa Hoàn Mỹ, TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 812,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa Hồng Đức ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 813,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa quốc tế Columbia Asia ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 814,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa Quốc tế Vũ Anh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 815,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa Vạn Hạnh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 816,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đại học Y Dược TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 817,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Mắt TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 818,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nguyễn Trãi ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 819,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nguyễn Tri Phương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 820,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nhân dân 115 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 821,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nhân dân Gia định ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 822,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nhi Đồng 1 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 823,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nhi Đồng 2 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 824,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Nhiệt đới TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 825,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Phạm Ngọc Thạch ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 826,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Quân Dân Miền Đông ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 827,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Hoàn Mỹ Sài Gòn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 828,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Quân Y Bộ Tư Lệnh Hải Quân ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 829,
+    "ProvinceId": 8,
+    "Name": "Bệnh Viện Pháp Việt ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 830,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Quốc Tế Columbia Asia Gia Định ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 831,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa An Sinh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 832,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Răng Hàm Mặt TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 833,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Răng Hàm Mặt Trung Ương TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 834,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Đa khoa Sài gòn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 835,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Tai Mũi Họng TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 836,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Thống Nhất, TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 837,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Tim Tâm Đức ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 838,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Triều An ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 839,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Trưng Vương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 840,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Truyền máu và Huyết học TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 841,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Tư nhân Đa khoa Phú Thọ ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 842,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Ung Bướu TP HCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 843,
+    "ProvinceId": 8,
+    "Name": "Bệnh viện Việt Pháp, TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 844,
+    "ProvinceId": 8,
+    "Name": "Viện Pasteur TPHCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 845,
+    "ProvinceId": 8,
+    "Name": "Viện Tim TP HCM ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7601,
+    "ProvinceId": 76,
+    "Name": "Bệnh viện Đa khoa Tỉnh An Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7602,
+    "ProvinceId": 76,
+    "Name": "Bệnh viện Mắt - Tai Mũi Họng - Răng Hàm Mặt, An Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7603,
+    "ProvinceId": 76,
+    "Name": "Bệnh viện Đa khoa An Giang – Châu Đốc ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6401,
+    "ProvinceId": 64,
+    "Name": "Bệnh viện Bà Rịa ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6402,
+    "ProvinceId": 64,
+    "Name": "Bệnh viện Lê Lợi ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 24001,
+    "ProvinceId": 240,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bắc Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 24002,
+    "ProvinceId": 240,
+    "Name": "Bệnh viện Sản Nhi Tỉnh Bắc Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 24003,
+    "ProvinceId": 240,
+    "Name": "Bệnh viện Quân đội 43 Bắc Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 28101,
+    "ProvinceId": 281,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bắc Cạn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 24101,
+    "ProvinceId": 241,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bắc Ninh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 24102,
+    "ProvinceId": 241,
+    "Name": "Viện Quân Y 110 Thị xã Bắc Ninh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 78101,
+    "ProvinceId": 781,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bạc Liêu ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7501,
+    "ProvinceId": 75,
+    "Name": "Bệnh viện 120 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7502,
+    "ProvinceId": 75,
+    "Name": "Bệnh viện Nguyễn Đình Chiểu ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7503,
+    "ProvinceId": 75,
+    "Name": "Quân Y viện tỉnh Bến Tre ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5601,
+    "ProvinceId": 56,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bình Định ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5602,
+    "ProvinceId": 56,
+    "Name": "Bệnh viện Đa khoa TP. Quy Nhơn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5603,
+    "ProvinceId": 56,
+    "Name": "Bệnh viện Quân Y Tỉnh Bình Định ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 65001,
+    "ProvinceId": 650,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bình Dương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 65101,
+    "ProvinceId": 651,
+    "Name": "Bệnh viện Đa khoa Tỉnh Bình Phước ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6201,
+    "ProvinceId": 62,
+    "Name": "Bệnh viện Thành phố Phan Thiết ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6202,
+    "ProvinceId": 62,
+    "Name": "Bệnh viện Tỉnh Bình Thuận ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2601,
+    "ProvinceId": 26,
+    "Name": "Bệnh viện Đa khoa Tỉnh Cao Bằng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 78001,
+    "ProvinceId": 780,
+    "Name": "Bệnh viện Đa khoa Tỉnh Cà Mau ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 78002,
+    "ProvinceId": 780,
+    "Name": "Bệnh viện Hoàn Mỹ Minh Hải, Cà Mau ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 78003,
+    "ProvinceId": 780,
+    "Name": "Bệnh viện Sản Nhi Tỉnh Cà Mau ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 71001,
+    "ProvinceId": 710,
+    "Name": "Bệnh viện Đa khoa Cần Thơ ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 71002,
+    "ProvinceId": 710,
+    "Name": "Bệnh viện Nhi Đồng, Cần Thơ ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 71003,
+    "ProvinceId": 710,
+    "Name": "Bệnh viện Hoàn Mỹ Cửu Long ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51101,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện 199 Bộ Công An ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51102,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện Bình Dân, Đà Nẵng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51103,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện Phụ sản –Nhi TP Đà Nẵng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51104,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện C Đà Nẵng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51105,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện Đa khoa Đà Nẵng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51106,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện Quân Y 17 - Quân Khu 5 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51107,
+    "ProvinceId": 511,
+    "Name": "Bệnh viện Hoàn Mỹ Đà Nẵng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 50001,
+    "ProvinceId": 500,
+    "Name": "Bệnh viện Đa khoa 333 DakLak ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 50002,
+    "ProvinceId": 500,
+    "Name": "Bệnh viện Thành phố Buôn Ma Thuột ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 50003,
+    "ProvinceId": 500,
+    "Name": "Bệnh viện Tỉnh Daklak ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 50004,
+    "ProvinceId": 500,
+    "Name": "Bệnh viện Đa khoa Thiện Hạnh Daklak ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 50101,
+    "ProvinceId": 501,
+    "Name": "Bệnh viện Đa khoa Tỉnh Đăk Nông ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 23001,
+    "ProvinceId": 230,
+    "Name": "Bệnh viện Đa khoa Tỉnh Điện Biên ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 23002,
+    "ProvinceId": 230,
+    "Name": "Bệnh viện thị xã Mường Lay ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6101,
+    "ProvinceId": 61,
+    "Name": "Bệnh viện Đa khoa Thành phố Biên Hòa, Đồng Nai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6102,
+    "ProvinceId": 61,
+    "Name": "Bệnh viện Đồng Nai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6103,
+    "ProvinceId": 61,
+    "Name": "Bệnh viện Nhi Đồng, Đồng Nai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6104,
+    "ProvinceId": 61,
+    "Name": "Bệnh viện Thống Nhất, Đồng Nai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6105,
+    "ProvinceId": 61,
+    "Name": "Viện Quân Y 7B ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6701,
+    "ProvinceId": 67,
+    "Name": "Bệnh viện Đa khoa Tỉnh Đồng Tháp ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6702,
+    "ProvinceId": 67,
+    "Name": "Bệnh viện Đa khoa thị xã sa Đéc ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6703,
+    "ProvinceId": 67,
+    "Name": "Bệnh viện Đa khoa thị xã Hồng Ngự ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6704,
+    "ProvinceId": 67,
+    "Name": "Bệnh viện Thái Hòa ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5901,
+    "ProvinceId": 59,
+    "Name": "Bệnh viện Đại học Y Dược Hoàng Anh Gia Lai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5902,
+    "ProvinceId": 59,
+    "Name": "Bệnh viện Đa khoa Thành phố Pleiku ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5903,
+    "ProvinceId": 59,
+    "Name": "Bệnh viện Đa khoa Tỉnh Gia Lai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5904,
+    "ProvinceId": 59,
+    "Name": "Bệnh viện Quân Y 211 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 21901,
+    "ProvinceId": 219,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hà Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 35101,
+    "ProvinceId": 351,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hà Nam ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3901,
+    "ProvinceId": 39,
+    "Name": "Bệnh viện Đa khoa Thị xã Hồng Lĩnh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3902,
+    "ProvinceId": 39,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hà Tĩnh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 32001,
+    "ProvinceId": 320,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hải Dương ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3101,
+    "ProvinceId": 31,
+    "Name": "Bệnh viện Đa khoa Quốc tế Hải Phòng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3102,
+    "ProvinceId": 31,
+    "Name": "Bệnh viện Hữu Nghị Việt Tiệp ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3103,
+    "ProvinceId": 31,
+    "Name": "Bệnh viện Y học Biển ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3104,
+    "ProvinceId": 31,
+    "Name": "Bệnh viện Đại học Y Hải Phòng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 71101,
+    "ProvinceId": 711,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hậu Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 21801,
+    "ProvinceId": 218,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hòa Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 32101,
+    "ProvinceId": 321,
+    "Name": "Bệnh viện Đa khoa Tỉnh Hưng Yên ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5801,
+    "ProvinceId": 58,
+    "Name": "Bệnh viện Đa khoa Tỉnh Khánh Hòa ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7701,
+    "ProvinceId": 77,
+    "Name": "Bệnh viện Đa khoa Kiên Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7702,
+    "ProvinceId": 77,
+    "Name": "Bệnh viện Đa khoa Phú Quốc ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6001,
+    "ProvinceId": 60,
+    "Name": "Bệnh viện Đa khoa Tỉnh Kon Tum ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 23101,
+    "ProvinceId": 231,
+    "Name": "Bệnh viện Đa khoa Tỉnh Lai Châu ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2001,
+    "ProvinceId": 20,
+    "Name": "Bệnh viện Đa khoa Lào Cai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2002,
+    "ProvinceId": 20,
+    "Name": "Bệnh viện Đa khoa Tỉnh Lào Cai ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2501,
+    "ProvinceId": 25,
+    "Name": "Đa Khoa trung tâm Tình Lạng Sơn ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6301,
+    "ProvinceId": 63,
+    "Name": "Bệnh viện Đa khoa Hoàn Mỹ, Đà Lạt ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6302,
+    "ProvinceId": 63,
+    "Name": "Bệnh viện Đa khoa Tỉnh Lâm Đồng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6303,
+    "ProvinceId": 63,
+    "Name": "Bệnh viện Đà Lạt ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7201,
+    "ProvinceId": 72,
+    "Name": "Bệnh viện Tỉnh Long An ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 35001,
+    "ProvinceId": 350,
+    "Name": "Bệnh viện Đa khoa tỉnh Nam Định ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3801,
+    "ProvinceId": 38,
+    "Name": "Bệnh viện Thành phố Vinh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3802,
+    "ProvinceId": 38,
+    "Name": "Bệnh viện Hữu nghị đa khoa Nghệ An ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3803,
+    "ProvinceId": 38,
+    "Name": "Bệnh viện Quân Y 4 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3001,
+    "ProvinceId": 30,
+    "Name": "Bệnh viện Đa khoa Tỉnh Ninh Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3002,
+    "ProvinceId": 30,
+    "Name": "Viện Quân Y 145 Ninh Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6801,
+    "ProvinceId": 68,
+    "Name": "Bệnh viện Đa khoa Tỉnh Ninh Thuận ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 21001,
+    "ProvinceId": 210,
+    "Name": "Bệnh viện Đa khoa Tỉnh Phú Thọ ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5701,
+    "ProvinceId": 57,
+    "Name": "Bệnh viện Đa khoa Tỉnh Phú Yên ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5702,
+    "ProvinceId": 57,
+    "Name": "Bệnh viện Thành phố Tuy Hòa ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5703,
+    "ProvinceId": 57,
+    "Name": "Viện Quân Y 13 Phú Yên ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5201,
+    "ProvinceId": 52,
+    "Name": "Bệnh viện Đa khoa Quảng Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5202,
+    "ProvinceId": 52,
+    "Name": "Bệnh viện Đa khoa Thành phố Đồng Hới, Quảng Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5203,
+    "ProvinceId": 52,
+    "Name": "Bệnh viện Việt Nam - Cuba, Đồng Hới ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51001,
+    "ProvinceId": 510,
+    "Name": "Bệnh viện Đa khoa Thành phố Tam Kỳ ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51002,
+    "ProvinceId": 510,
+    "Name": "Bệnh viện Đa khoa Tỉnh Quảng Nam ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51003,
+    "ProvinceId": 510,
+    "Name": "Bệnh viện Đa khoa Trung ương Quảng Nam ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 51004,
+    "ProvinceId": 510,
+    "Name": "Bệnh viện Hữu Nghị Việt nam - Hàn quốc ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5501,
+    "ProvinceId": 55,
+    "Name": "Bệnh viện Đa khoa Tỉnh Quảng Ngãi ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3301,
+    "ProvinceId": 33,
+    "Name": "Bệnh viện thành phố  Móng Cái ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3302,
+    "ProvinceId": 33,
+    "Name": "Bệnh viện Tỉnh Quảng Ninh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3303,
+    "ProvinceId": 33,
+    "Name": "Bệnh viện Hữu Nghị Việt Nam-Thụy Điển ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3304,
+    "ProvinceId": 33,
+    "Name": "Bệnh viện Việt Nam - Thụy Điển ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5301,
+    "ProvinceId": 53,
+    "Name": "Bệnh viện Đa khoa Thị xã Quảng Trị ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5302,
+    "ProvinceId": 53,
+    "Name": "Bệnh viện Đa khoa Tỉnh Quảng Trị ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7901,
+    "ProvinceId": 79,
+    "Name": "Bệnh viện Đa khoa Tỉnh Sóc Trăng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2201,
+    "ProvinceId": 22,
+    "Name": "Bệnh viện Đa khoa tỉnh Sơn La ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2202,
+    "ProvinceId": 22,
+    "Name": "Viện Quân Y 6 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6601,
+    "ProvinceId": 66,
+    "Name": "Bệnh viện Đa khoa Tỉnh Tây Ninh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 6602,
+    "ProvinceId": 66,
+    "Name": "Bệnh viện Quân Y Tây Ninh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3601,
+    "ProvinceId": 36,
+    "Name": "Bệnh viện Đa khoa Tỉnh Thái Bình ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 28001,
+    "ProvinceId": 280,
+    "Name": "Bệnh viện Quân Y 91 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 28002,
+    "ProvinceId": 280,
+    "Name": "Bệnh viện Đa khoa tỉnh Thái Nguyên ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 28003,
+    "ProvinceId": 280,
+    "Name": "Bệnh viện A Thái Nguyên ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3701,
+    "ProvinceId": 37,
+    "Name": "Bệnh viện Đa khoa Thành phố Thanh Hóa ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3702,
+    "ProvinceId": 37,
+    "Name": "Bệnh viện Đa khoa Tỉnh Thanh Hóa ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3703,
+    "ProvinceId": 37,
+    "Name": "Bệnh viện Trung Ương 71 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 3704,
+    "ProvinceId": 37,
+    "Name": "Bệnh viện Đa khoa khu vực Ngọc Lặc ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5401,
+    "ProvinceId": 54,
+    "Name": "Bệnh viện Chấn thương Chỉnh hình - Phẫu thuật tạo hình Huế ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5402,
+    "ProvinceId": 54,
+    "Name": "Bệnh viện Đa khoa Thành phố Huế ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5403,
+    "ProvinceId": 54,
+    "Name": "Bệnh viện Đại học Y Huế ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5404,
+    "ProvinceId": 54,
+    "Name": "Bệnh viện Đa khoa Hoàng Viết Thắng ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5405,
+    "ProvinceId": 54,
+    "Name": "Bệnh viện Răng Hàm Mặt Trung Ương Huế ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5406,
+    "ProvinceId": 54,
+    "Name": "Bệnh viện Trung Ương Huế ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 5407,
+    "ProvinceId": 54,
+    "Name": "Viện Quân Y 268 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7301,
+    "ProvinceId": 73,
+    "Name": "Bệnh viện Đa khoa Tỉnh Tiền Giang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7302,
+    "ProvinceId": 73,
+    "Name": "Viện Quân Y 120 ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7401,
+    "ProvinceId": 74,
+    "Name": "Bệnh viện Tỉnh Trà Vinh ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2701,
+    "ProvinceId": 27,
+    "Name": "Bệnh viện Đa khoa Tỉnh Tuyên Quang ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 7001,
+    "ProvinceId": 70,
+    "Name": "Bệnh viện Đa khoa Tỉnh Vĩnh Long ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 21101,
+    "ProvinceId": 211,
+    "Name": "Bệnh viện Đa khoa Tỉnh Vĩnh Phúc ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  },
+  {
+    "HospitalId": 2901,
+    "ProvinceId": 29,
+    "Name": "Bệnh viện Đa khoa Tỉnh Yên Bái ",
+    "Address": null,
+    "Website": null,
+    "Tel": null
+  }
+]

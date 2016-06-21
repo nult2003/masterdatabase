@@ -15,14 +15,15 @@ namespace MasterDatabaseSystem.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Trang này lưu trữ master database được tập hợp từ nhiều nguồn. "+
+                "Dữ liệu gồm những danh mục được xử dụng phổ biến trong các đơn vị hành chánh, v.v..";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Địa chỉ văn phòng";
 
             return View();
         }
