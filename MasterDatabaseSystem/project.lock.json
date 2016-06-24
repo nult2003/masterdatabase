@@ -143,6 +143,38 @@
           "lib/netstandard1.3/Microsoft.AspNetCore.Antiforgery.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Authentication/1.0.0-rc2-final": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.DataProtection": "1.0.0-rc2-final",
+          "Microsoft.AspNetCore.Http": "1.0.0-rc2-final",
+          "Microsoft.AspNetCore.Http.Extensions": "1.0.0-rc2-final",
+          "Microsoft.Extensions.Logging.Abstractions": "1.0.0-rc2-final",
+          "Microsoft.Extensions.Options": "1.0.0-rc2-final",
+          "Microsoft.Extensions.WebEncoders": "1.0.0-rc2-final",
+          "System.Net.Http": "4.0.1-rc2-24027"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Cookies/1.0.0-rc2-final": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication": "1.0.0-rc2-final",
+          "Microsoft.Extensions.Options": "1.0.0-rc2-final",
+          "Microsoft.Extensions.WebEncoders": "1.0.0-rc2-final"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.Cookies.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.Cookies.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/1.0.0-rc2-final": {
         "type": "package",
         "dependencies": {
@@ -187,6 +219,21 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/1.0.0-rc2-final": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "1.0.0-rc2-final",
+          "System.Runtime.Extensions": "4.1.0-rc2-24027",
+          "System.Security.Cryptography.Algorithms": "4.1.0-rc2-24027",
+          "System.Text.Encoding.Extensions": "4.0.11-rc2-24027"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
         }
       },
       "Microsoft.AspNetCore.DataProtection/1.0.0-rc2-final": {
@@ -414,6 +461,35 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.AspNetCore.HttpOverrides.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Identity/1.0.0-rc2-final": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Cookies": "1.0.0-rc2-final",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "1.0.0-rc2-final",
+          "Microsoft.AspNetCore.Hosting.Abstractions": "1.0.0-rc2-final",
+          "System.Text.RegularExpressions": "4.0.12-rc2-24027"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Identity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Identity.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/1.0.0-rc2-final": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "1.0.0-rc2-final",
+          "Microsoft.EntityFrameworkCore.Relational": "1.0.0-rc2-final",
+          "System.ComponentModel.TypeConverter": "4.0.1-rc2-24027"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {}
         }
       },
       "Microsoft.AspNetCore.JsonPatch/1.0.0-rc2-final": {
@@ -4065,6 +4141,30 @@
         "lib/netstandard1.3/Microsoft.AspNetCore.Antiforgery.xml"
       ]
     },
+    "Microsoft.AspNetCore.Authentication/1.0.0-rc2-final": {
+      "sha512": "Q3bnG8ubRJgSR3JThOve/YZNnw0wF41eixjZ+5W9jbY+xqr0DLRnRp465mxtXkaQTgzznjAZnBQi5E6C+CESVw==",
+      "type": "package",
+      "files": [
+        "Microsoft.AspNetCore.Authentication.1.0.0-rc2-final.nupkg.sha512",
+        "Microsoft.AspNetCore.Authentication.nuspec",
+        "lib/net451/Microsoft.AspNetCore.Authentication.dll",
+        "lib/net451/Microsoft.AspNetCore.Authentication.xml",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.dll",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.Cookies/1.0.0-rc2-final": {
+      "sha512": "IAS6XC4XLxqUckEYAnMXaDNJSW4s/LZRNI+rTcYZ1FPSct5QzPEy13zh4TxcozOIy5p+FjLpcEqckaAbegSOiQ==",
+      "type": "package",
+      "files": [
+        "Microsoft.AspNetCore.Authentication.Cookies.1.0.0-rc2-final.nupkg.sha512",
+        "Microsoft.AspNetCore.Authentication.Cookies.nuspec",
+        "lib/net451/Microsoft.AspNetCore.Authentication.Cookies.dll",
+        "lib/net451/Microsoft.AspNetCore.Authentication.Cookies.xml",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.Cookies.dll",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Authentication.Cookies.xml"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/1.0.0-rc2-final": {
       "sha512": "ZeV8YInPAMAM0IbbZUnjaNOSYWZVu8EuHd+PEUQENaMIJ6hLqPm06M4AM3CS2b07FGjPkV5WqjV5PckZDI9mkw==",
       "type": "package",
@@ -4099,6 +4199,18 @@
         "lib/net451/Microsoft.AspNetCore.Cryptography.Internal.xml",
         "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.Internal.dll",
         "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.Internal.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/1.0.0-rc2-final": {
+      "sha512": "PfvisLxSTs/RcOXtG6qQrmGKAnlLFaOuPCpy2Yj4CYoAdYEeYfQn8DF/Io/0Zzqx1lU6FeWNY9ApLz8vvTBhLg==",
+      "type": "package",
+      "files": [
+        "Microsoft.AspNetCore.Cryptography.KeyDerivation.1.0.0-rc2-final.nupkg.sha512",
+        "Microsoft.AspNetCore.Cryptography.KeyDerivation.nuspec",
+        "lib/net451/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/net451/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml"
       ]
     },
     "Microsoft.AspNetCore.DataProtection/1.0.0-rc2-final": {
@@ -4251,6 +4363,30 @@
         "lib/net451/Microsoft.AspNetCore.HttpOverrides.xml",
         "lib/netstandard1.3/Microsoft.AspNetCore.HttpOverrides.dll",
         "lib/netstandard1.3/Microsoft.AspNetCore.HttpOverrides.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.Identity/1.0.0-rc2-final": {
+      "sha512": "yFubDsWj/T3qw4DHTUk2WkXuUjYC43hN4PMrf+SpWHGn0j67G1SwxPstwE2XkOtVfWv8DsHxgqwJLhU/F5TUdQ==",
+      "type": "package",
+      "files": [
+        "Microsoft.AspNetCore.Identity.1.0.0-rc2-final.nupkg.sha512",
+        "Microsoft.AspNetCore.Identity.nuspec",
+        "lib/net451/Microsoft.AspNetCore.Identity.dll",
+        "lib/net451/Microsoft.AspNetCore.Identity.xml",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Identity.dll",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Identity.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/1.0.0-rc2-final": {
+      "sha512": "9qE3O2h7IMLp1YkgrQwk5xHPAdkhQehANYswKRXaPWmhbG21+n/IWkD9hyleWTWLkz8QR6mx2FKdvA2obVd8TQ==",
+      "type": "package",
+      "files": [
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore.1.0.0-rc2-final.nupkg.sha512",
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore.nuspec",
+        "lib/net451/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/net451/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/netstandard1.3/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml"
       ]
     },
     "Microsoft.AspNetCore.JsonPatch/1.0.0-rc2-final": {
@@ -10117,6 +10253,8 @@
       "EntityFramework.Core >= 7.0.0-rc1-final",
       "Microsoft.ApplicationInsights.AspNetCore >= 1.0.0-rc2-final",
       "Microsoft.AspNetCore.Diagnostics >= 1.0.0-rc2-final",
+      "Microsoft.AspNetCore.Identity >= 1.0.0-rc2-final",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 1.0.0-rc2-final",
       "Microsoft.AspNetCore.Mvc >= 1.0.0-rc2-final",
       "Microsoft.AspNetCore.Razor.Tools >= 1.0.0-preview1-final",
       "Microsoft.AspNetCore.Server.IISIntegration >= 1.0.0-rc2-final",
@@ -10130,7 +10268,8 @@
       "Microsoft.Extensions.Logging.Console >= 1.0.0-rc2-final",
       "Microsoft.Extensions.Logging.Debug >= 1.0.0-rc2-final",
       "Microsoft.NETCore.App >= 1.0.0-rc2-3002702",
-      "Microsoft.VisualStudio.Web.BrowserLink.Loader >= 14.0.0-rc2-final"
+      "Microsoft.VisualStudio.Web.BrowserLink.Loader >= 14.0.0-rc2-final",
+      "Newtonsoft.Json >= 8.0.3"
     ],
     ".NETCoreApp,Version=v1.0": []
   },

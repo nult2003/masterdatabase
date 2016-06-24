@@ -10,12 +10,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <DestinationConnectionStrings Include="DefaultConnection">
-      <Value>Server=tcp:nult2015database.database.windows.net,1433;Data Source=nult2015database.database.windows.net;Initial Catalog=MasterDatabase;Persist Security Info=False;User ID=nult2015;Password=Japanes1984;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+      <Value>Server=tcp:nult2015database.database.windows.net,1433;Data Source=nult2015database.database.windows.net;Initial Catalog=MasterDatabase;Persist Security Info=False;User ID=nult2015;Password=Japanes1984;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
     </DestinationConnectionStrings>
   </ItemGroup>
   <ItemGroup>
     <EfMigrations Include="MasterDatabaseSystem.Models.MasterContext">
-      <Value>Server=tcp:nult2015database.database.windows.net,1433;Data Source=nult2015database.database.windows.net;Initial Catalog=MasterDatabase;Persist Security Info=False;User ID=nult2015;Password=Japanes1984;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+      <Value>Server=tcp:nult2015database.database.windows.net,1433;Data Source=nult2015database.database.windows.net;Initial Catalog=MasterDatabase;Persist Security Info=False;User ID=nult2015;Password=Japanes1984;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
     </EfMigrations>
   </ItemGroup>
 </Project>

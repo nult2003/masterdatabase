@@ -1,0 +1,38 @@
+﻿@model Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityRole
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+    .label-left{
+        text-align:left !important;
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-8">
+        <section>
+            <form asp-controller="Role" asp-action="Create" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal">
+                <h4>Create</h4>
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label class="col-md-6 control-label label-left">Enter Role Name To be Created</label>
+                    <div class="col-md-6">
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <div class="col-md-10">
+                        <button type="submit" class="btn btn-default">Create role</button>
+                    </div>
+                </div>
+                
+            </form>
+        </section>
+    </div>
+    
+</div>
+
